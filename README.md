@@ -1,4 +1,4 @@
-## *Session I'd for Redmi-XMD*
+## *Session I'D for Redmi-XMD*
 
 Now Deploy
     <br>
