@@ -71,7 +71,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❸ || Contact Owner = https://wa.me/254759000340
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*© 2024-2099 🅑r̸𝐢𝖌𝖍t̸_×͜× the G.O.A.T*
+*© 2024-2099 Black-Tappy the G.O.A.T😂🙌*
        `
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
